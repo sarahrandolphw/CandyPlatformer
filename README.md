@@ -1,4 +1,4 @@
-SOURCES
+SOURCES\n
 art 
 free pack for world and platforms
 https://qunootart.itch.io/candy-land
